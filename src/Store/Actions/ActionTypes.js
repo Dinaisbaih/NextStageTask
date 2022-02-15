@@ -1,0 +1,3 @@
+export const EDIT_CAT_ACTION = "EDIT_CAT_ACTION";
+export const DELETE_CAT_ACTION = "DELETE_CAT_ACTION";
+export const ADD_CAT_ACTION = "ADD_CAT_ACTION";
