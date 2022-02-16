@@ -18,7 +18,7 @@ import EditIcon from "react-native-vector-icons/Feather";
 import DeleteIcon from "react-native-vector-icons/AntDesign";
 import { SwipeListView } from "react-native-swipe-list-view";
 import AddIcon from "react-native-vector-icons/AntDesign";
-import { TouchableOpacity } from "react-native-gesture-handler";
+import { TouchableOpacity } from "react-native";
 import Modal from "react-native-modal";
 import { useDispatch, useSelector } from "react-redux";
 import {

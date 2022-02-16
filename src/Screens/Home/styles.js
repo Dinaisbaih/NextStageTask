@@ -63,7 +63,6 @@ export const SaveButtonStyle = styled.Button`
 export const ButtonWrapper = styled.View`
   width: 85px;
   height: 40px;
-  border-width: 1px;
   border-radius: 10px;
   background-color: white;
   margin-top: 30px;
